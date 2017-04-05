@@ -143,10 +143,11 @@
     },
     {
       "name": "Development",
-      "level": "Master/Intermediate",
+      "level": "Master",
       "keywords": [
         "Python",
         "Ruby",
+        "Flask",
         "Django",
         "ReST",
         "SOA"
@@ -181,7 +182,7 @@
     },
     {
       "name": "System Administration",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "Debian/Ubuntu",
         "RHEL/CentOS/Fedora",
