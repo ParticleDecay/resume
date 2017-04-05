@@ -11,8 +11,5 @@ It can be viewed at https://registry.jsonresume.org/jhunthrop
 ---
 ```
 npm install
-make test
-make analyze
-make build
-make clean
+make test && make
 ```
