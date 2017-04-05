@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "jhunthrop's resume",
+  "author": "jhunthrop@gmail.com",
+  "dependencies": {
+    "resume-cli": "*",
+    "handlebars": "*",
+    "hackmyresume": "*",
+    "jsonresume-theme-elegant": "*",
+    "jsonresume-theme-slick": "*",
+    "jsonresume-theme-flat": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhunthrop/resume.git"
+  },
+  "private": true
+}
