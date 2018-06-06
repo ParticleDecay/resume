@@ -1,20 +1,25 @@
 {
   "basics": {
     "name": "Justin Hunthrop",
-    "label": "Cloud Platforms",
+    "label": "Production Engineering",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAPBAAAAJGU3MDQyZDM1LTM5ZjYtNDZiNC1iMWQ1LTQxMzU0NDQwOWE1Ng.jpg",
     "email": "jhunthrop@gmail.com",
     "phone": "(479)-426-8782",
     "website": "https://registry.jsonresume.org/jhunthrop",
-    "summary": "Justin is a principle engineer who's career has been primarily focused on cloud platform engineering, architecture, and automation.",
+    "summary": "Justin is a Sr. Principle Engineer who's career has been primarily focused on cloud platform engineering, architecture, and automation.",
     "location": {
-      "address": "Rogers, Arkansas",
-      "postalCode": "",
-      "city": "",
+      "address": "5213 S 44th Pl",
+      "postalCode": "72758",
+      "city": "Rogers",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
+      {
+        "network": "Facebook",
+        "username": "justin.hunthrop",
+        "url": "https://www.facebook.com/justin.hunthrop"
+      },
       {
         "network": "LinkedIn",
         "username": "jhunthrop",
@@ -30,14 +35,15 @@
   "work": [
     {
       "company": "EMC / Virtustream",
-      "position": "Principle Engineer - Cloud Platforms",
+      "position": "Sr Principle Software Engineer",
       "website": "http://www.virtustream.com/",
       "startDate": "2016-04-18",
       "summary": "",
       "highlights": [
-        "Architect, deploy, and support production OpenStack IaaS platforms spread across multiple regions and continents",
+        "Lead development of interal Storage as a Service application, performed code reviews, and managed development tasks",
+        "Architecture, deployment, and support of production OpenStack IaaS platforms",
         "Responsible for all aspects of Openstack software defined networking",
-        "Provide Tier 3 support for all Openstack components and their dependencies",
+        "Provided Tier 3 support for all Openstack components and their dependencies",
         "Develop automation and orchestration for deployment and operations activities",
         "Design and implementation of infrastructure monitoring to provide alerting and problem diagnosis capabilities",
         "Lead POC efforts with various technologies in the software defined storage and software defined networking realm"
@@ -45,7 +51,7 @@
     },
     {
       "company": "Walmart",
-      "position": "Technical Expert - Cloud",
+      "position": "Technical Expert",
       "website": "https://www.walmart.com/",
       "startDate": "2015-09-14",
       "endDate": "2016-04-15",
@@ -59,7 +65,7 @@
     },
     {
       "company": "EMC",
-      "position": "Principle Engineer - Cloud Platforms",
+      "position": "Principle Software Engineer - Cloud Platforms",
       "website": "http://www.emc.com",
       "startDate": "2014-04-14",
       "endDate": "2015-09-09",
@@ -69,7 +75,7 @@
         "Team won the President's award, which is the highest honor given by EMC",
         "Implemented three US VMWare clouds to support internal EMC IT workloads",
         "Deployment automation including bare-metal provisioning, platform configuration, and shared services (NTP, DNS, Tacacs+, etc..)",
-        "Created the initial designs and POC environments for API driven compute, network, and storage services leveraging Openstack, Ceph, and Cisco ASRs"
+        "Assisted with the initial designs and POC environments for API driven compute, network, and storage services leveraging Openstack, Ceph, and Cisco ASRs"
       ]
     },
     {
