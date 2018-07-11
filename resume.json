@@ -8,11 +8,8 @@
     "website": "https://registry.jsonresume.org/jhunthrop",
     "summary": "Justin is a principle engineer who's career has been primarily focused on cloud platform engineering, architecture, and automation.",
     "location": {
-      "address": "Rogers, Arkansas",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "US",
-      "region": ""
+      "city": "Rogers",
+      "region": "AR"
     },
     "profiles": [
       {
@@ -30,7 +27,7 @@
   "work": [
     {
       "company": "EMC / Virtustream",
-      "position": "Principle Engineer - Cloud Platforms",
+      "position": "Sr. Principle Software Engineer",
       "website": "http://www.virtustream.com/",
       "startDate": "2016-04-18",
       "summary": "",
@@ -45,7 +42,7 @@
     },
     {
       "company": "Walmart",
-      "position": "Technical Expert - Cloud",
+      "position": "Technical Expert",
       "website": "https://www.walmart.com/",
       "startDate": "2015-09-14",
       "endDate": "2016-04-15",
@@ -59,7 +56,7 @@
     },
     {
       "company": "EMC",
-      "position": "Principle Engineer - Cloud Platforms",
+      "position": "Principle Software Engineer",
       "website": "http://www.emc.com",
       "startDate": "2014-04-14",
       "endDate": "2015-09-09",
@@ -121,8 +118,7 @@
       "area": "Information Technology",
       "studyType": "Bachelor of Applied Sciences",
       "startDate": "2004-08-16",
-      "endDate": "2010-05-15",
-      "courses": []
+      "endDate": "2010-05-15"
     }
   ],
   "awards": [],

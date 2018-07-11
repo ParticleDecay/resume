@@ -1,4 +1,4 @@
-build: build-slick build-elegant build-flat
+build: build-slick build-elegant build-flat build-class
 
 test: validate analyze
 
@@ -10,6 +10,9 @@ build-elegant:
 
 build-flat:
 	hackmyresume BUILD resume.json TO out/flat/resume.all -t node_modules/jsonresume-theme-flat
+
+build-class:
+	hackmyresume BUILD resume.json TO out/class/resume.all -t node_modules/jsonresume-theme-class
 
 validate:
 	hackmyresume VALIDATE resume.json
