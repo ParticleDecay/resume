@@ -1,12 +1,15 @@
-build: build-slick build-elegant build-flat build-class
+build: build-standard build-stackoverflow build-slick build-flat build-class
 
 test: validate analyze
 
+build-standard:
+	hackmyresume BUILD resume.json TO out/standard/resume.all
+
+build-stackoverflow:
+	hackmyresume BUILD resume.json TO out/stackoverflow/resume.all -t node_modules/jsonresume-theme-stackoverflow
+
 build-slick:
 	hackmyresume BUILD resume.json TO out/slick/resume.all -t node_modules/jsonresume-theme-slick
-
-build-elegant:
-	hackmyresume BUILD resume.json TO out/elegant/resume.all -t node_modules/jsonresume-theme-elegant
 
 build-flat:
 	hackmyresume BUILD resume.json TO out/flat/resume.all -t node_modules/jsonresume-theme-flat

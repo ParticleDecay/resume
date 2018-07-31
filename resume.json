@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Justin Hunthrop",
-    "label": "Cloud Platforms",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAPBAAAAJGU3MDQyZDM1LTM5ZjYtNDZiNC1iMWQ1LTQxMzU0NDQwOWE1Ng.jpg",
+    "label": "Sr. Principal Software Engineer",
+    "picture": "https://www.gravatar.com/avatar/51f544d3bc24b7d4d0aa6b140e3be89f?s=200",
     "email": "jhunthrop@gmail.com",
     "phone": "(479)-426-8782",
     "website": "https://registry.jsonresume.org/jhunthrop",
-    "summary": "Justin is a principle engineer who's career has been primarily focused on cloud platform engineering, architecture, and automation.",
+    "summary": "Hey! I'm Justin. I'm an engineer and I love what I do. I'm passionate about making great technology products that have a true impact. I'm also passionate about helping others reach their goals, making work fun, and delivering. I also have 4+ years of remote work experience.",
     "location": {
       "city": "Rogers",
       "region": "AR"
@@ -30,14 +30,14 @@
       "position": "Sr. Principle Software Engineer",
       "website": "http://www.virtustream.com/",
       "startDate": "2016-04-18",
-      "summary": "",
+      "summary": "In this role, I lead remote teams of software engineers with a focus on delivering software-defined infrastructure services.",
       "highlights": [
-        "Architect, deploy, and support production OpenStack IaaS platforms spread across multiple regions and continents",
-        "Responsible for all aspects of Openstack software defined networking",
-        "Provide Tier 3 support for all Openstack components and their dependencies",
-        "Develop automation and orchestration for deployment and operations activities",
-        "Design and implementation of infrastructure monitoring to provide alerting and problem diagnosis capabilities",
-        "Lead POC efforts with various technologies in the software defined storage and software defined networking realm"
+        "Lead design, development, and implementation of a storage provisioning and management platform",
+        "Coached and mentored engineers of all skill levels",
+        "Lead efforts to standardize and streamline software development practices",
+        "Implemented objective interview practices for engineering applicants across our organization",
+        "Implemented and lead technical interview panel",
+        "Lead major POC efforts regarding software defined infrastructure"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "website": "https://www.walmart.com/",
       "startDate": "2015-09-14",
       "endDate": "2016-04-15",
-      "summary": "",
+      "summary": "In this role, my main focus was driving implementation of modern technology practices in a legacy environment.",
       "highlights": [
         "Planning, design, and proof of concept for a distributed container platform to support all Walmart distribution centers",
         "Implemented CI/CD systems and processes to facilitate hundreds of users contributing to centralized configuration management of over 50,000 Linux systems",
@@ -125,6 +125,31 @@
   "publications": [],
   "skills": [
     {
+      "name": "Leadership",
+      "level": "Master",
+      "keywords": [
+        "Communication",
+        "Motivation",
+        "Focus",
+        "Delegation",
+        "Coaching & Development",
+        "Trust"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "Flask",
+        "Django",
+        "Node",
+        "Express",
+        "React",
+        "ReST"
+      ]
+    },
+    {
       "name": "Cloud Infrastructure",
       "level": "Master",
       "keywords": [
@@ -135,18 +160,6 @@
         "Docker",
         "Kubernetes",
         "VMWare vSphere"
-      ]
-    },
-    {
-      "name": "Development",
-      "level": "Master",
-      "keywords": [
-        "Python",
-        "Ruby",
-        "Flask",
-        "Django",
-        "ReST",
-        "SOA"
       ]
     },
     {
@@ -178,7 +191,7 @@
     },
     {
       "name": "System Administration",
-      "level": "Intermediate",
+      "level": "Master",
       "keywords": [
         "Debian/Ubuntu",
         "RHEL/CentOS/Fedora",
